@@ -3,3 +3,5 @@
 Requires some soldering and wire hookup  
 FPGA board available at pcbway with LCD screen  
 The Gowinsemi tools may make this kit suitable for middle school students?  
+
+Preliminary photo of complete kit using onhand DIP switch & FPGA board  
