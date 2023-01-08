@@ -9,7 +9,7 @@ FPGA board also available with small LCD screen
 Would expect a lessurely pace labortory classroom setting  
 With the students learning digital/binary signals and logic  
 Much of which can be done via PC simulator  
-#### Instant gratification via preprogrammed configuration  
+#### Instant gratification via preprogrammed configurations  
 Use IO pins to provide connections from buttons to logic gates to LEDs  
 Can also program an exampe operation of display board  
 
