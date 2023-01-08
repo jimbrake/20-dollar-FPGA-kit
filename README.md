@@ -9,6 +9,9 @@ FPGA board also available with small LCD screen
 Would expect a lessurely pace labortory classroom setting  
 With the students learning digital/binary signals and logic  
 Much of which can be done via PC simulator  
+#### Instant gratification via preprogrammed configuration  
+Use IO pins to provide connections from buttons to logic gates to LEDs  
+Can also program an exampe operation of display board  
 
 Preliminary photo of complete kit using onhand DIP switch & onhand FPGA board  
 Tang nano 9K board on order, pins need to be soldered  
