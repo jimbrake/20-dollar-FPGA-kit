@@ -13,5 +13,8 @@ Much of which can be done via PC simulator
 Use IO pins to provide connections from buttons to logic gates to LEDs  
 Can also program an exampe operation of display board  
 
-Preliminary photo of complete kit using onhand DIP switch & onhand FPGA board  
-Tang nano 9K board on order, pins need to be soldered  
+### Photos of complete kit: breadboard, DIP switch & either  
+Cmod A7-15T board or  
+Tang Nano 9K board (the losest cost board with sufficient capabilities)  
+Board pins required soldering, Breadboard split and widened to allow  
+better access to IO pins. Power rail shifted over to align with DIP switches.  
