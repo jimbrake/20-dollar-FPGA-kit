@@ -18,3 +18,4 @@ Tang Nano 9K board (the lowest cost board with sufficient capabilities)
 Cmod A7-15T board also pictured or use any of the other narrow FPGA boards.   
 Nano Board pins required soldering, Breadboard split in two, widened allowing  
 better access to IO pins. Power rail shifted to align with DIP switches.  
+![Kit_using_Tang-nano-9K_230116](https://user-images.githubusercontent.com/41881860/213339781-b4687948-a9ee-486b-90a1-86a711e054e6.jpeg)
