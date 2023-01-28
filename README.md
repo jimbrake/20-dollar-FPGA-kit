@@ -14,8 +14,8 @@ Much of which can be done via PC logic simulator (Digital Designer)
 Use IO pins to provide connections from buttons to logic gates to LEDs  
 Can also preprogram an example operation of display board  
 
-### Photos of complete kit: breadboard, DIP switch, display board &  
-Tang Nano 9K board (the lowest cost board with sufficient capabilities)  
+### Photos of assembled kit: breadboard, DIP switch, display board &  
+#### Tang Nano 9K board (the lowest cost board with sufficient capabilities)  
 ![Kit_using_Tang-nano-9K_230116](https://user-images.githubusercontent.com/41881860/213339781-b4687948-a9ee-486b-90a1-86a711e054e6.jpeg)
   
 Also Cmod A7-15T board pictured in the slides, or one can use any of the narrow FPGA boards.   
