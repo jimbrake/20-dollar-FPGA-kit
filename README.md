@@ -4,7 +4,7 @@ Single kit price under $30, classroom kit (quantity 30) about $20 each
 
 Wiring using male-female jumpers and one ground wire jumper  
 FPGA board also available with small LCD screen  
-As shown all screen and HDMI connectors available  
+As shown all LCD screen and HDMI connectors are usable  
 
 #### The Gowinsemi tools may make this kit suitable for middle school students?  
 Would expect a lessurely pace labortory classroom setting  
