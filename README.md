@@ -3,6 +3,8 @@
 #### Tang nano 9K
 Single kit price under $30, classroom kit (quantity 30) about $20 each  
 Wiring using male-female jumpers and one ground wire jumper  
+Nano Board pins required soldering, Breadboard split in two, widened allowing  
+better access to IO pins. Power rail shifted to align with DIP switches.  
 FPGA board also available with small LCD screen  
 As shown all LCD screen and HDMI connectors are usable  
 #### Alinx Spartan-6 AX309 (subject to stock on hand)  
@@ -27,5 +29,3 @@ Can also preprogram an example operation of display board
 ![spartan-6_AX309_230218](https://user-images.githubusercontent.com/41881860/219904348-438ff14d-bd25-478a-870c-6f988814a770.JPG)
   
 Also Cmod A7-15T board pictured in the slides, or one can use any of the narrow FPGA boards.   
-Nano Board pins required soldering, Breadboard split in two, widened allowing  
-better access to IO pins. Power rail shifted to align with DIP switches.  
