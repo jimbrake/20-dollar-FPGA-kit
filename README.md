@@ -8,7 +8,7 @@ better access to IO pins. Power rail shifted to align with DIP switches.
 FPGA board also available with small LCD screen  
 As shown all LCD screen and HDMI connectors are usable  
 #### Alinx Spartan-6 AX309 (subject to stock on hand)  
-Single kit price of $31.20, classroom kit (shared JTAG programmer at $20.77)  
+Single kit price of $31.20, classroom kit with shared JTAG programmer at $20.77  
 #### For the Tang nano 9K  
 The Gowinsemi tools may make this kit suitable for middle school students?  
 Would expect a lessurely pace labortory classroom setting  
