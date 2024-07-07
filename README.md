@@ -1,4 +1,6 @@
 # 20-dollar-FPGA-kit  
+## Very similar approach with more choices  
+https://habr.com/en/articles/823638/  
 ### Spreadsheet has parts list with pricing and web links
 #### Tang nano 9K
 Single kit price under $30, classroom kit (quantity 30) about $20 each  
