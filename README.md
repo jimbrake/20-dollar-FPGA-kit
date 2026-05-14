@@ -1,7 +1,9 @@
 # 20-dollar-FPGA-kit  
-## Only $4   Renesas ForgeFPGA + RP2040  
-https://www.linkedin.com/pulse/shrike-lite-fpga-board-4-entry-hybrid-embedded-logic-prince-kushwaha-9ajmc/  
-## Very similar approach with more choices  
+## $4   Renesas ForgeFPGA + RP2040  
+https://www.crowdsupply.com/vicharak/shrike  
+### To order  
+https://store.vicharak.in/?product=shrike&post_type=product&name=shrike&v=0b3b97fa6688  
+## Other similar approach with more choices  
 https://habr.com/en/articles/823638/  
 https://verilog-meetup.com/2025/05/25/tang-nano-9k-setup-update/  
 https://hackaday.com/2018/08/06/learn-fpga-fast-with-hackadays-fpga-boot-camp/ over $20  
