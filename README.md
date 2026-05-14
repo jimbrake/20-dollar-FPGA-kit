@@ -1,6 +1,6 @@
-# 20-dollar-FPGA-kit  
+# 20 dollars and under FPGA kits  
 ## $4   Renesas ForgeFPGA + RP2040  
-https://www.crowdsupply.com/vicharak/shrike  
+https://www.crowdsupply.com/vicharak/shrike 1120 5LUTs, DIP form factor  
 ### To order  
 https://store.vicharak.in/?product=shrike&post_type=product&name=shrike&v=0b3b97fa6688  
 ## Other similar approach with more choices  
